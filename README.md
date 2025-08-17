@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himesh Mehta</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
+<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.36071c5bc2da74c6b40db2511a8fd0fd?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fgifdb.com%2fimages%2fhigh%2fcartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif&ehk=YgoBa9sWx1Dp%2beZqyngfSfbASpFDMX8mNSXD%2bG1h9Kc%3d">
 
 - 🔭 I’m currently working on **CAR RECOMMENDATION SYSTEM**
 
