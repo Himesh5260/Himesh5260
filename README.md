@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himesh Mehta</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himesh5260&label=Profile%20views&color=0e75b6&style=flat" alt="himesh5260" /> </p>
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 
 - 🔭 I’m currently working on **CAR RECOMMENDATION SYSTEM**
 
