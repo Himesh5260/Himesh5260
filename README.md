@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himesh5260&label=Profile%20views&color=0e75b6&style=flat" alt="himesh5260" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himesh5260" alt="himesh5260" /></a> </p>
-
 - 🔭 I’m currently working on **CAR RECOMMENDATION SYSTEM**
 
 - 🌱 I’m currently learning **PYTHON WITH DATA SCIENCE**
