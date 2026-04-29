@@ -1,5 +1,20 @@
 # 💫 About Me:
-🔭 I’m currently working on CAR RECOMMENDATION SYSTEM<br><br>Coding<br><br>🌱 I’m currently learning PYTHON WITH DATA SCIENCE<br><br>👯 I’m looking to collaborate on AI/ML PROJECTS<br>👨‍💻 All of my projects are available at https://github.com/Himesh5260<br><br>💬 Ask me about DATA SCIENCE<br><br>📫 How to reach me himeshmehta2work@gmail.com<br><br>📄 Know about my experiences www.linkedin.com/in/himesh-mehta-18dec2005<br><br>⚡ Fun fact: Data scientist is a person better at statistics than any software engineer and better at software engineering than any statistician.
+
+<img align="right" width="280" src="https://github.com/user-attachments/assets/ff63cf9a-d816-46b1-a937-9c188c98b685" />
+
+🔭 I’m currently working on **CAR RECOMMENDATION SYSTEM**  
+🌱 I’m currently learning **PYTHON WITH DATA SCIENCE**  
+👯 I’m looking to collaborate on **AI/ML PROJECTS**  
+👨‍💻 All of my projects are available at [https://github.com/Himesh5260](https://github.com/Himesh5260)  
+💬 Ask me about **DATA SCIENCE**  
+📫 How to reach me **himeshmehta2work@gmail.com**  
+📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/himesh-mehta-18dec2005)
+
+<br clear="right">
+
+---
+
+⚡ **Fun fact:** Data scientist is a person better at statistics than any software engineer and better at software engineering than any statistician.
 
 
 ## 🌐 Socials:
