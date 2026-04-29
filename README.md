@@ -1,13 +1,13 @@
 # 💫 About Me:
 
-<img align="right" width="280" src="https://github.com/user-attachments/assets/ff63cf9a-d816-46b1-a937-9c188c98b685" />
+<img align="right" width="300" src="https://github.com/user-attachments/assets/4bbb746a-5ff5-455a-afa1-5f0974fde379" />
 
-🔭 I’m currently working on **CAR RECOMMENDATION SYSTEM**  
-🌱 I’m currently learning **PYTHON WITH DATA SCIENCE**  
-👯 I’m looking to collaborate on **AI/ML PROJECTS**  
-👨‍💻 All of my projects are available at [https://github.com/Himesh5260](https://github.com/Himesh5260)  
-💬 Ask me about **DATA SCIENCE**  
-📫 How to reach me **himeshmehta2work@gmail.com**  
+🔭 I’m currently working on **CAR RECOMMENDATION SYSTEM** <br>
+🌱 I’m currently learning **PYTHON WITH DATA SCIENCE** <br>
+👯 I’m looking to collaborate on **AI/ML PROJECTS** <br>
+👨‍💻 All of my projects are available at [https://github.com/Himesh5260](https://github.com/Himesh5260) <br>
+💬 Ask me about **DATA SCIENCE** <br>
+📫 How to reach me **himeshmehta2work@gmail.com** <br>
 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/himesh-mehta-18dec2005)
 
 <br clear="right">
